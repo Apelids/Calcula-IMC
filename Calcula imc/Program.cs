@@ -23,6 +23,7 @@ namespace Calcula_imc
             Console.WriteLine("Sua altura: " + altura);
             Console.WriteLine("Seu imc: " + imc);
             Console.WriteLine("Classificacão: " + classificacao); //Apenas teste sobre a funcionalidade de uma branch
+            //git push origin "nome da braanch" ,comando que sobe a branch no github 
 
         }
 
