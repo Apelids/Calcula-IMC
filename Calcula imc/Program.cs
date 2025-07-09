@@ -22,7 +22,7 @@ namespace Calcula_imc
             Console.WriteLine("Seu peso : " + peso);
             Console.WriteLine("Sua altura: " + altura);
             Console.WriteLine("Seu imc: " + imc);
-            Console.WriteLine("Classificacão: " + classificacao);
+            Console.WriteLine("Classificacão: " + classificacao); //Apenas teste sobre a funcionalidade de uma branch
 
         }
 
