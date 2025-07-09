@@ -1,0 +1,7 @@
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\bin\Debug\Calcula imc.exe.config
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\bin\Debug\Calcula imc.exe
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\bin\Debug\Calcula imc.pdb
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\obj\Debug\Calcula imc.csproj.AssemblyReference.cache
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\obj\Debug\Calcula imc.csproj.CoreCompileInputs.cache
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\obj\Debug\Calcula imc.exe
+C:\Computaria\Projetos C#\Calcula imc\Calcula imc\obj\Debug\Calcula imc.pdb
